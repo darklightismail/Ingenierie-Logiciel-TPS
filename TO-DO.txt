@@ -1,0 +1,35 @@
+page 36-45
+page 67-72
+page 78-80
+page 102-104
+page 106
+
+github 
+diagrame : d'activité
+classe 
+objet
+composant
+cas d'utilisation
+
+
+
+p36   exo1/2
+p67   Q1
+79 Q syth
+p92   figure 3.39/3.40
+
+
+UML COMPLEMENTAIRE : OCL !!!
+
+classe d'algorithme :
+-greedy(voraces) : the best choice independant of the futur ! like optimisation algorithms 
+-divide-to-conquer : 
+-programmation dynamique :
+algorithme de probabilité : 
+
+
+cisco !
+
+
+
+          
